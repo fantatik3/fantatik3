@@ -15,3 +15,5 @@ Our website: - https://vortex-gaming.net/.
 ![fantatik3's GitHub stats](https://github-readme-stats.vercel.app/api?username=fantatik3&count_private=true&show_icons=true&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fantatik3&theme=onedark)](https://github.com/fantatik3/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fantatik3)](https://git.io/streak-stats)
