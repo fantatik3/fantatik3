@@ -8,8 +8,12 @@
 
 - ⚡ More About me:
 
-The last 12 years i been managing medium sized communities, designing systems and content for online games.
+The last 12 years i been managing medium sized communities, designing systems and content for online games using C++ / TCP Packets / MySQL DB.
 Our website: - https://vortex-gaming.net/.
+A life decicated to technology and learning.
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
 ![fantatik3's GitHub stats](https://github-readme-stats.vercel.app/api?username=fantatik3&count_private=true&show_icons=true&theme=radical)
