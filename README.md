@@ -20,8 +20,6 @@ The last 12 years i been managing medium sized communities, designing systems an
 
 ![fantatik3's GitHub stats](https://github-readme-stats.vercel.app/api?username=fantatik3&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fantatik3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=fantatik3&theme=onedark)](https://github.com/fantatik3/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fantatik3)](https://git.io/streak-stats)
