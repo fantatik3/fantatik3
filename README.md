@@ -12,4 +12,4 @@ The last 12 years i been managing medium sized communities, designing systems an
 Our website: - https://vortex-gaming.net/.
 
 
-![fantatik3's GitHub stats](https://github-readme-stats.vercel.app/api?username=fantatik3&count_private=true)
+![fantatik3's GitHub stats](https://github-readme-stats.vercel.app/api?username=fantatik3&count_private=true&show_icons=true)
