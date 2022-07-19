@@ -10,3 +10,6 @@
 
 The last 12 years i been managing medium sized communities, designing systems and content for online games.
 Our website: - https://vortex-gaming.net/.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fantatik3)](https://github.com/anuraghazra/github-readme-stats)
