@@ -19,6 +19,8 @@ I’m focused, self managed and I love to work hard on my goals, I love videogam
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ![fantatik3's GitHub stats](https://github-readme-stats.vercel.app/api?username=fantatik3&count_private=true&show_icons=true&theme=radical)
 
