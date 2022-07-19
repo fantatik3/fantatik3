@@ -8,9 +8,9 @@
 
 - ⚡ More About me:
 
-Spanish 33yo developer, the last 12 years i been managing medium sized communities, handling secure servers, designing systems and content for online games using C++ / TCP Packets / MySQL DB, created bots for discord to share real time information on chat channels to help investigating bugs/issues/notification purposes.
+Spanish 33yo developer, the last 12 years I been managing medium sized communities, handling secure servers, designing systems and content for online games using C++ / TCP Packets / MySQL DB, created bots for discord to share real time information on chat channels to help investigating bugs/issues/notification purposes.
 
-Im focused, self managed and i love to work hard to my goals, i love videogames but i just tend to play them to study how they are made / their systems design.
+Im focused, self managed and I love to work hard on my goals, I love videogames but I just tend to play them to study how they are made / their systems design.
 
 - A life decicated to technology and learning.
 
