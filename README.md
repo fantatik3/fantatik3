@@ -13,4 +13,3 @@ Our website: - https://vortex-gaming.net/.
 
 
 ![fantatik3's GitHub stats](https://github-readme-stats.vercel.app/api?username=fantatik3&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fantatik3)](https://github.com/fantatik3/GXD_COMPRESS)
