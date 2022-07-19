@@ -9,8 +9,10 @@
 - ⚡ More About me:
 
 The last 12 years i been managing medium sized communities, designing systems and content for online games using C++ / TCP Packets / MySQL DB.
-Our website: - https://vortex-gaming.net/.
-A life decicated to technology and learning.
+
+- A life decicated to technology and learning.
+
+- Our website: - https://vortex-gaming.net/.
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
