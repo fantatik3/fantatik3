@@ -1,6 +1,6 @@
 ### Hello world! 👋
 
-- 🔭 I’m currently with C++ / C# / DotNet on own private repositories.
+- 🔭 I’m currently working with C++ / C# / DotNet mostly on private repositories.
 - 🌱 I’m currently learning about Unity Engine.
 - 👯 I’m looking to collaborate on any kind of project that helps me evolve and continue learning.
 
