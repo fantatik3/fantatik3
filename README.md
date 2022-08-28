@@ -1,7 +1,7 @@
 ### Hello world! 👋
 
 - 🔭 I’m currently working with C / ASMx86 / C++ / C# / DotNet mostly on private repositories.
-- 🌱 I’m currently learning about Unity Engine.
+- 🌱 I’m currently learning about Unity Engine / IDA.
 - 👯 I’m looking to collaborate on any kind of project that helps me evolve and continue learning.
 
 - 📫 How to reach me: vortexgamingstaff@gmail.com
