@@ -1,6 +1,6 @@
 ### Hello world! 👋
 
-- 🔭 I’m currently working with C++ / C# / DotNet mostly on private repositories.
+- 🔭 I’m currently working with C / ASMx86 / C++ / C# / DotNet mostly on private repositories.
 - 🌱 I’m currently learning about Unity Engine.
 - 👯 I’m looking to collaborate on any kind of project that helps me evolve and continue learning.
 
@@ -11,7 +11,7 @@
 - Spanish 33yo developer, the last 12 years I been managing medium sized communities, handling secure servers, designing systems and content for online games using C++ / TCP Packets / MySQL DB.
 - I’m focused, self managed and I love to work hard on my goals, I love videogames but I just tend to play them to study how they are made / their systems design.
 - Created bots for discord to share real time information on chat channels to help investigating bugs/issues/notification purposes.
-- Created MMORPG AI System for the server side.
+- Created MMORPG Player AI System for the server side.
 
 - A life decicated to technology and learning.
 
