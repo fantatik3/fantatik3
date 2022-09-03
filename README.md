@@ -12,6 +12,7 @@
 - I’m focused, self managed and I love to work hard on my goals, I love videogames but I just tend to play them to study how they are made / their systems design.
 - Created bots for discord to share real time information on chat channels to help investigating bugs/issues/notification purposes.
 - Created MMORPG Player AI System for the server side.
+- MMORPG content designer.
 
 - A life decicated to technology and learning.
 
