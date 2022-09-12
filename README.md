@@ -4,15 +4,19 @@
 - 🌱 I’m currently learning about Unity Engine / IDA.
 - 👯 I’m looking to collaborate on any kind of project that helps me evolve and continue learning.
 
+- 🐱‍🐉 I’m actually looking for a partial time job! (I might require some training to work with your team).
 - 📫 How to reach me: vortexgamingstaff@gmail.com
 
 - ⚡ More About me:
 
-- Spanish 33yo developer, the last 12 years I been managing medium sized communities, handling secure servers, designing systems and content for online games using C++ / TCP Packets / MySQL DB.
+- Spanish 33yo developer, the last 12 years I been: 
+
+  - Managing medium sized communities.
+  - Handling server security.
+  - Designing systems and content for MMORPG games using C++ / TCP Packets / MySQL DB.
+  - Reading lots of ASMx86 and C in IDA due to Reverse engineering projects i have in my hands.
+
 - I’m focused, self managed and I love to work hard on my goals, I love videogames but I just tend to play them to study how they are made / their systems design.
-- Created bots for discord to share real time information on chat channels to help investigating bugs/issues/notification purposes.
-- Created MMORPG Player AI System for the server side.
-- MMORPG content designer.
 
 - A life decicated to technology and learning.
 
