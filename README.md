@@ -2,15 +2,17 @@
 
 - 🔭 I’m currently working with C / ASMx86 / C++ / C# / DotNet mostly on private repositories.
 - 🌱 I’m currently learning about Unity Engine / IDA.
+- 💯 I’m creative and thinking ahead.
 - 👯 I’m looking to collaborate on any kind of project that helps me evolve and continue learning.
 - 🏎 Looking for optimizations in your workflow via personalized tools? Contact me.
 - 🐱‍🐉 I’m actually looking for a partial time job! (I might require some training to work with your team).
+- 
 - 📫 How to reach me: vortexgamingstaff@gmail.com
-
 - ⚡ More About me:
 
 - Spanish 33yo developer, the last 12 years I been: 
 
+  - Making tools of all kinds to speed up companies workflow or my own.
   - Managing medium sized communities.
   - Handling server security.
   - Designing systems and content for MMORPG games using C++ / TCP Packets / MySQL DB.
