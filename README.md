@@ -1,6 +1,6 @@
 ### Hello world! 👋
 
-- 🔭 I’m currently working with C / ASMx86 / C++ / C# / DotNet mostly on private repositories.
+- 🔭 I’m currently working with C / ASMx86 / MT-C++ / C# / DotNet mostly on private repositories.
 - 🌱 I’m currently learning about Unity Engine / IDA.
 - 💯 I’m creative and thinking ahead.
 - 👯 I’m looking to collaborate on any kind of project that helps me evolve and continue learning.
