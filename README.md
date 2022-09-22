@@ -12,7 +12,7 @@
 
 - Spanish 33yo developer, the last 12 years I been: 
 
-  - Making tools of all kinds to speed up companies workflow or my own.
+  - Making user tools of all kinds to speed up companies workflow or my own.
   - Managing medium sized communities.
   - Handling server security.
   - Designing systems and content for MMORPG games using C++ / TCP Packets / MySQL DB.
