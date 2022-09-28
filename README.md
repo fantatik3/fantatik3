@@ -15,7 +15,7 @@
   - Making user tools of all kinds to speed up companies workflow or my own.
   - Managing medium sized communities.
   - Handling server security.
-  - Designing systems and content for MMORPG games using C++ / TCP Packets / MySQL DB.
+  - Designing gameplay systems and content for MMORPG games using C++ / TCP Packets / MySQL DB.
   - Reading lots of ASMx86 and C in IDA due to Reverse engineering projects i have in my hands.
 
 - I’m focused, self managed and I love to work hard on my goals, I love videogames but I just tend to play them to study how they are made / their systems design.
