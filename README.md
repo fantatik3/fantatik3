@@ -5,7 +5,6 @@
 - 💯 I’m creative and thinking ahead.
 - 👯 I’m looking to collaborate on any kind of project that helps me evolve and continue learning.
 - 🏎 Looking for optimizations in your workflow via personalized tools? Contact me.
-- 🐱‍🐉 I’m actually looking for a partial time job! (I might require some training to work with your team).
 
 - 📫 How to reach me: vortexgamingstaff@gmail.com
 - ⚡ More About me:
