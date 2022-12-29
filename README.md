@@ -19,6 +19,7 @@
   - IT operations.
   - Multiplayer backend.
   - Multiplayer backend security.
+  - Gray Hat.
 
 - I’m focused, self managed and I love to work hard on my goals, I love videogames but lately I just got time to play them to study how they are made / their systems design.
 
