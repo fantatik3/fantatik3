@@ -16,6 +16,9 @@
   - Handling server security.
   - Designing gameplay systems and content for MMORPG games using C++ / TCP Packets / MySQL DB.
   - Reading lots of ASMx86 and C in IDA due to Reverse engineering projects i have in my hands.
+  - IT operations.
+  - Multiplayer backend.
+  - Multiplayer backend security.
 
 - I’m focused, self managed and I love to work hard on my goals, I love videogames but lately I just got time to play them to study how they are made / their systems design.
 
