@@ -14,7 +14,7 @@
   - Making user tools of all kinds to speed up companies workflow or my own.
   - Managing medium sized communities.
   - Handling server security.
-  - Designing gameplay systems and content for MMORPG games using C++ / TCP Packets / MySQL DB.
+  - Designing gameplay systems and content for MMORPG games using C / C# / C++ / TCP Packets / MySQL DB.
   - Reading lots of ASMx86 and C in IDA due to Reverse engineering projects i have in my hands.
   - IT operations.
   - Multiplayer backend.
