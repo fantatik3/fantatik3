@@ -37,6 +37,5 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-![My Stats!](https://github-readme-stats.vercel.app/api?username=fantatik3&count_private=true&show_icons=true&theme=radical)
 ![My Stats!](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fantatik3&theme=2077)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fantatik3)](https://git.io/streak-stats)
