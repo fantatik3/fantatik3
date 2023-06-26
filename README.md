@@ -1,7 +1,7 @@
 ### Hello world! 👋
 
 - 🔭 I’m currently working with C / ASMx86 / MT-C++ / C# / DotNet mostly on private repositories.
-- 🌱 I’m currently learning about Unity Engine / IDA.
+- 🌱 I’m currently learning about Unity Engine / 3D Graphics.
 - 💯 I’m creative and thinking ahead.
 - 👯 I’m looking to collaborate on any kind of project that helps me evolve and continue learning.
 - 🏎 Looking for optimizations in your workflow via personalized tools? Contact me.
@@ -19,6 +19,7 @@
   - IT operations.
   - Multiplayer backend.
   - Multiplayer backend security.
+  - Reverse Engineering.
   - Gray Hat.
 
 - I’m focused, self managed and I love to work hard on my goals, I love videogames but lately I just got time to play them to study how they are made / their systems design.
