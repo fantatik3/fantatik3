@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on any kind of project that helps me evolve and continue learning.
 - 🏎 Looking for optimizations in your workflow via personalized tools? Contact me.
 
-- 📫 How to reach me: vortexgamingstaff@gmail.com
+- 📫 How to reach me:  vortexworkmail@gmail.com
 - ⚡ More About me:
 
 - Spanish 33yo developer, the last 12 years I been: 
@@ -20,13 +20,6 @@
   - Multiplayer backend.
   - Multiplayer backend security.
   - Reverse Engineering.
-  - Gray Hat.
-
-- I’m focused, self managed and I love to work hard on my goals, I love videogames but lately I just got time to play them to study how they are made / their systems design.
-
-- A life decicated to technology and learning.
-
-- Our Project website: - https://vortex-gaming.net/.
 
 - LANGUAGES: 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
