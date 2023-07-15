@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about Unity Engine / 3D Graphics.
 - 💯 I’m creative and thinking ahead.
 - 👯 I’m looking to collaborate on any kind of project that helps me evolve and continue learning.
-- 🏎 Looking for optimizations in your workflow via personalized tools? Contact me.
+- 🏎 Looking for optimizations in your workflow via personalized tools(In-House)? Contact me.
 
 - 📫 How to reach me:  vortexworkmail@gmail.com
 - ⚡ More About me:
