@@ -15,6 +15,7 @@
   - Managing medium sized communities.
   - Handling server security.
   - Designing gameplay systems and content for MMORPG games using C / C# / C++ / TCP Packets / MySQL DB.
+  - Managing Windows Networking for anti DDoS systems.
   - Reading lots of ASMx86 and C in IDA due to Reverse engineering projects i have in my hands.
   - IT operations.
   - Multiplayer backend.
