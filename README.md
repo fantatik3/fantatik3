@@ -9,7 +9,7 @@
 - 📫 How to reach me:  vortexworkmail@gmail.com
 - ⚡ More About me:
 
-- Spanish 33yo developer, the last 12 years I been: 
+- Spanish 34yo developer, the last 12 years I been: 
 
   - Making user tools of all kinds to speed up companies workflow or my own. (In-House Tools)
   - Managing medium sized communities.
