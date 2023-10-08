@@ -1,7 +1,7 @@
 ### Hello world! 👋
 
 - 🔭 I’m currently working with C / ASMx86 / MT-C++ / C# / NodeJS mostly on private repositories.
-- 🌱 I’m currently learning about Machine Learning, js, NoSQL.
+- 🌱 I’m currently learning about JS, 3D Graphics.
 - 💯 I’m creative and thinking ahead.
 - 👯 I’m looking to collaborate on any kind of project that helps me evolve and continue learning.
 - 🏎 Looking for optimizations in your workflow via personalized tools(In-House)? Contact me.
