@@ -1,26 +1,5 @@
 ### Hello world! 👋
 
-- 🔭 I’m currently working with C / ASMx86 / MT-C++ / C# mostly on private repositories.
-- 🌱 I’m currently learning about JS, 3D Graphics.
-- 💯 I’m creative and thinking ahead.
-- 👯 I’m looking to collaborate on any kind of project that helps me evolve and continue learning.
-- 🏎 Looking for optimizations in your workflow via personalized tools(In-House)? Contact me.
-
-- 📫 How to reach me:  vortexworkmail@gmail.com
-- ⚡ More About me:
-
-- Spanish 34yo developer, the last 12 years I been: 
-
-  - Making user tools of all kinds to speed up companies workflow or my own. (In-House Tools)
-  - Managing medium sized communities and teams.
-  - Designing gameplay systems and content for MMORPG games using C / C# / C++ / TCP Packets / MySQL DB.
-  - Managing Windows Networking for anti DDoS systems.
-  - Reading lots of ASMx86 and C in IDA due to Reverse engineering projects i have in my hands.
-  - IT operations.
-  - Multiplayer backend.
-  - Multiplayer backend security.
-  - Reverse Engineering.
-
 - LANGUAGES: 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -42,3 +21,7 @@
 
 ![My Stats!](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fantatik3&theme=2077)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fantatik3)](https://git.io/streak-stats)
+
+
+
+- 📫 How to reach me:  vortexworkmail@gmail.com
