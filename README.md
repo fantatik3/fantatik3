@@ -16,7 +16,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ![My Stats!](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fantatik3&theme=2077)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fantatik3)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fantatik3&theme=darcula)](https://git.io/streak-stats)
 
 
 
