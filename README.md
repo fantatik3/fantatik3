@@ -17,6 +17,6 @@
 
 ![My Stats!](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fantatik3&theme=2077)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fantatik3&theme=darcula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fantatik3&theme=darcula)](https://git.io/streak-stats)
 
 - 📫 How to reach me:  vortexworkmail@gmail.com
