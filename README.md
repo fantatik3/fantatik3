@@ -11,8 +11,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![DirectX 9](https://img.shields.io/badge/DX9-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![DirectX 11](https://img.shields.io/badge/DX11-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![DirectX 9](https://img.shields.io/badge/DX9-8A2BE2.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![DirectX 11](https://img.shields.io/badge/DX11-8A2BE2.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 - TOOLS: 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
