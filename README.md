@@ -1,6 +1,6 @@
 ### Hello world! 👋
 
-- LANGUAGES: 
+## LANGUAGES 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -14,7 +14,8 @@
 ![DirectX 9](https://img.shields.io/badge/DX9-8A2BE2.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![DirectX 11](https://img.shields.io/badge/DX11-8A2BE2.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-- TOOLS: 
+## TOOLS
+
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
